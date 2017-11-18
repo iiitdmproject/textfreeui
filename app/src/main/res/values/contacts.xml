@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="contacts">
+        <item>1234567890</item>
+        <item>0987654321</item>
+        <item>1234567890</item>
+        <item>0987654321</item>
+        <item>1234567890</item>
+        <item>0987654321</item>
+        <item>1234567890</item>
+        <item>0987654321</item>
+        <item>1234567890</item>
+        <item>0987654321</item>
+        <item>1234567890</item>
+        <item>0987654321</item>
+        <item>1234567890</item>
+        <item>0987654321</item>
+        <item>1234567890</item>
+        <item>0987654321</item>
+        <item>1234567890</item>
+        <item>0987654321</item>
+    </string-array>
+</resources>
